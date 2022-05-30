@@ -1,0 +1,4 @@
+1. npm install prisma
+2. npm install -D @prisma/client(Dev dependency)
+3. npx prisma init(Create project in current directory by the name of prisma)
+4. npx prisma generate(to generate prisma)
